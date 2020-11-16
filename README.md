@@ -9,8 +9,8 @@ Check out my some of my work in the pinned repositories down below :point_down: 
  
  :newspaper: [Website]() 
  
- [LinkedIN](https://www.linkedin.com/in/alexander-weitzer-6965761bb)
+ ![LinkedIn](/linkedIn.png)[LinkedIN](https://www.linkedin.com/in/alexander-weitzer-6965761bb)
  
- [Xing](https://www.xing.com/profile/Alexander_Weitzer/cv)
+![Xing](/xing.png) [Xing](https://www.xing.com/profile/Alexander_Weitzer/cv)
  
 
