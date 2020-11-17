@@ -5,7 +5,7 @@ Check out my some of my work in the pinned repositories down below :point_down: 
 
 ### Socials:
 
-:envelope: alexander.weitzer.dev@mailbag.at
+:envelope: alexander.weitzer.dev@A1.net
  
  :newspaper: [Website](https://alexw0610.github.io/) 
  
