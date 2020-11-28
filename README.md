@@ -1,6 +1,6 @@
 ## Hey I'm Alex  :wave:
 I'm a software developer from Austria mainly focusing on java development.
-Check out my some of my work in the pinned repositories down below :point_down: or visit my [Portfolio Website](https://alexw0610.github.io/) for a more structured overview. 
+Check out some of my work in the pinned repositories down below :point_down: or visit my [website](https://alexw0610.github.io/) for a more structured overview. 
 
 
 ### Socials:
